@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sec5_OperadoresJava/Sec5_OperadoresJava.iml" filepath="$PROJECT_DIR$/Sec5_OperadoresJava/Sec5_OperadoresJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sec6_SentenciasDeControl/Sec6_SentenciasDeControl.iml" filepath="$PROJECT_DIR$/Sec6_SentenciasDeControl/Sec6_SentenciasDeControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversidadJava.iml" filepath="$PROJECT_DIR$/UniversidadJava.iml" />
+    </modules>
+  </component>
+</project>
