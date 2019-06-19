@@ -9,6 +9,7 @@ public class PrecedenciaDeOperadores {
                  // (-3 + 8) - 2 + 3
                  //  (5 - 3) + 2
                  //  2 + 2
+
                  //   4
         System.out.println(6 / 3);
         System.out.println(2 * 4);
