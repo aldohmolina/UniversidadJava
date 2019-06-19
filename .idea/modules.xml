@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sec5_OperadoresJava/Sec5_OperadoresJava.iml" filepath="$PROJECT_DIR$/Sec5_OperadoresJava/Sec5_OperadoresJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sec6_SentenciasDeControl/Sec6_SentenciasDeControl.iml" filepath="$PROJECT_DIR$/Sec6_SentenciasDeControl/Sec6_SentenciasDeControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sec7_CreacionClases/Sec7_CreacionClases.iml" filepath="$PROJECT_DIR$/Sec7_CreacionClases/Sec7_CreacionClases.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniversidadJava.iml" filepath="$PROJECT_DIR$/UniversidadJava.iml" />
     </modules>
   </component>
